@@ -15,3 +15,13 @@ https://github.com/DynamicsValue/365saturday
 **FakeXrmEasy repository**
 
 https://github.com/jordimontana82/fake-xrm-easy
+
+**Nuget packages**
+
+v9:
+
+https://www.nuget.org/packages/FakeXrmEasy.9/
+
+v8.2:
+
+https://www.nuget.org/packages/FakeXrmEasy.365/
