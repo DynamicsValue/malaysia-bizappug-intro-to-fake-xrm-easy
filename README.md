@@ -1,1 +1,1 @@
-# malaysia-bizappug-intro-to-fake-xrm-easy
+# Malaysia BizApp User Group Session about Introduction to FakeXrmEasy
